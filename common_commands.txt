@@ -3,7 +3,6 @@ git log
 git add (-p)
 git commit (-m)
 git push
-
 git branch <branch name> //creates new branch
 git checkout <branch name> //switch to that branch
-
+git merger origin/master //update with changes from master
