@@ -4,5 +4,6 @@ git add (-p)
 git commit (-m)
 git push
 git branch <branch name> //creates new branch
+git push --set-upstream origin <branch name> //makes pushing and pulling use the <branch name> branch on GitHub by default
 git checkout <branch name> //switch to that branch
 git merge origin/master //update with changes from master
