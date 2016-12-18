@@ -3,3 +3,6 @@ git log
 git add (-p)
 git commit (-m)
 git push
+
+
+git rekt //jk not a real command
