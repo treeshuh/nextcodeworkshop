@@ -1,6 +1,3 @@
-this thing is new.
-
-consider it a feature
-
+this thing is new. consider it a feature
 
 more text = more improved
