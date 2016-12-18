@@ -3,3 +3,4 @@ git log
 git add (-p)
 git commit (-m)
 git push
+git branch
