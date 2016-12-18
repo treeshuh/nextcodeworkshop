@@ -1,5 +1,7 @@
 git status
 git log
+git log --oneline
 git add (-p)
+git add .
 git commit (-m)
 git push
